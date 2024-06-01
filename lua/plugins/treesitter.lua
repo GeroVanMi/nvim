@@ -17,6 +17,7 @@ return {
       "markdown",
       "nix",
       "julia",
+      "terraform",
     })
   end,
 }

@@ -21,6 +21,7 @@ return {
         -- "gopls",
         "julials",
         "taplo",
+        "terraformls",
       })
     end,
   },
