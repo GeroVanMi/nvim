@@ -35,7 +35,6 @@ return {
         "prettier",
         "stylua",
         "ruff",
-        "isort",
       })
     end,
   },
