@@ -12,7 +12,7 @@ return {
         "rust_analyzer",
         "pyright",
         -- "tsserver",
-        "denols",
+        -- "denols",
         "dockerls",
         "docker_compose_language_service",
         "svelte",

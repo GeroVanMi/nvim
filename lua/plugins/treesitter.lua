@@ -18,6 +18,8 @@ return {
       "nix",
       "julia",
       "terraform",
+      "tsx",
+      "astro",
     })
   end,
 }
